@@ -1,7 +1,7 @@
 ### reass
 
 - 16
-- Learning Java, C# and Python
+- Learning Java, C#, JavaScript and Python
 - He/Him
 
 
