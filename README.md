@@ -1,7 +1,7 @@
 ### reass
 
 - 17
-- Learning Java, C#, JavaScript and Python
+- Learning Java, Web Development and Nix(OS)
 - He/Him
 
 
