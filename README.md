@@ -1,7 +1,7 @@
 ### reass
 
-- 17
-- Learning Java, Web Development and Nix(OS)
+- 18
+- Learning Java and Nix(OS)
 - He/Him
 
 
